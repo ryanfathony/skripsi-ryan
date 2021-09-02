@@ -72,14 +72,7 @@ contributors to the CodeIgniter project and you, the CodeIgniter user.
 ***************
 Screenshot
 ***************
-Login Page Form :
-- ![3](https://user-images.githubusercontent.com/44825563/131770551-6e86d5f2-d906-4627-824f-742a2bd30af2.PNG)
-
-Create Account Form :
-- ![4](https://user-images.githubusercontent.com/44825563/131770761-f2b36b48-5cb6-4a1a-84b1-831c7144215d.PNG)
-
-Role Management :
-- ![1](https://user-images.githubusercontent.com/44825563/131770769-d86b5ef4-579d-436f-807e-89167b02b421.PNG)
-
-Submenu Management :
-- ![2](https://user-images.githubusercontent.com/44825563/131770771-0a18c2fd-1180-423c-a399-b6ca12797f72.PNG)
+- Login Page Form :	![3](https://user-images.githubusercontent.com/44825563/131770551-6e86d5f2-d906-4627-824f-742a2bd30af2.PNG)
+- Create Account Form : ![4](https://user-images.githubusercontent.com/44825563/131770761-f2b36b48-5cb6-4a1a-84b1-831c7144215d.PNG)
+- Role Management : ![1](https://user-images.githubusercontent.com/44825563/131770769-d86b5ef4-579d-436f-807e-89167b02b421.PNG)
+- Submenu Management : ![2](https://user-images.githubusercontent.com/44825563/131770771-0a18c2fd-1180-423c-a399-b6ca12797f72.PNG)
